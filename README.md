@@ -4,7 +4,7 @@ Passive Cell Battery Management System (BMS) Balancing Design for a LiFePO4 Batt
 # Battery Management System (BMS) for LiFePO4 Battery Pack
 <img width="310" alt="image" src="https://github.com/yektaparlak/Battery-Management-System-BMS-/assets/111290340/71071b84-aae5-46c9-88b4-22c09621e222"> <samp>***(logo design by Yekta Parlak)***</samp>
 
-<br>
+<br> 
 
 ## 1. Header Inclusions and Variable Definitions:
 
