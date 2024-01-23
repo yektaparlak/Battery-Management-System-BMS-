@@ -77,9 +77,8 @@ Passive Cell Battery Management System (BMS) Balancing Design for a LiFePO4 Batt
 <img width="4000" alt="image" src="https://github.com/yektaparlak/Battery-Management-System-BMS-/assets/111290340/09de0c9c-09f4-48d7-94a2-8be07dfa6dc5">
 
 # The Temperature Control Unit:
-![image](https://github.com/yektaparlak/Battery-Management-System-BMS-/assets/111290340/d702f71c-f2a3-4473-9a57-59a644a968b1)
-
+<img width="600" alt="image" src="https://github.com/yektaparlak/Battery-Management-System-BMS-/assets/111290340/d702f71c-f2a3-4473-9a57-59a644a968b1">
 
 # The Voltage Measurement Unit:
-![image](https://github.com/yektaparlak/Battery-Management-System-BMS-/assets/111290340/0788fe17-b6d4-4f9e-9c4a-7570e883f2f8)
+<img width="600" alt="image" src="https://github.com/yektaparlak/Battery-Management-System-BMS-/assets/111290340/0788fe17-b6d4-4f9e-9c4a-7570e883f2f8">
 
